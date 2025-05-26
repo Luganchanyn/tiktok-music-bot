@@ -1,0 +1,1 @@
+.env\n.env.*\n\n__pycache__/\n*.py[cod]\n*$py.class\ndownloads/\n*.mp3\n*.mp4\n\n.idea/\n.vscode/
