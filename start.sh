@@ -1,1 +1,4 @@
-#!/bin/bash\napt-get update && apt-get install -y ffmpeg\nmkdir -p downloads\npython3 BOT.py
+#!/bin/bash
+apt-get update && apt-get install -y ffmpeg
+mkdir -p downloads
+python3 BOT.py
